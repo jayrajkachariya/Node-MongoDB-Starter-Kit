@@ -1,0 +1,45 @@
+{
+  "name": "travels-backend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jayrajkachariya/travels-backend.git"
+  },
+  "keywords": [],
+  "author": "Jayraj Kachariya",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jayrajkachariya/travels-backend/issues"
+  },
+  "homepage": "https://github.com/jayrajkachariya/travels-backend#readme",
+  "dependencies": {
+    "bcrypt": "^3.0.6",
+    "body-parser": "^1.19.0",
+    "colors": "^1.3.3",
+    "composable-middleware": "^0.3.0",
+    "compression": "^1.7.4",
+    "cookie-parser": "^1.4.4",
+    "cors": "^2.8.5",
+    "dotenv": "^8.0.0",
+    "errorhandler": "^1.5.1",
+    "express": "^4.16.4",
+    "helmet": "^3.18.0",
+    "jsonwebtoken": "^8.5.1",
+    "lodash": "^4.17.11",
+    "log4js": "^4.2.0",
+    "mongoose": "^5.5.8",
+    "nodemailer": "^6.1.1",
+    "nodemailer-smtp-transport": "^2.7.4",
+    "passport": "^0.4.0",
+    "passport-google": "^0.3.0",
+    "request": "^2.88.0",
+    "response-time": "^2.3.2",
+    "validator": "^10.11.0"
+  }
+}

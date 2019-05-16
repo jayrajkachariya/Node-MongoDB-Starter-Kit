@@ -1,0 +1,9 @@
+[2019-05-16T11:41:36.040] [INFO] PROD - Listening on port 3000
+[2019-05-16T11:41:36.049] [ERROR] PROD - MongoNetworkError
+[2019-05-16T12:05:46.272] [INFO] PROD - Listening on port 3000
+[2019-05-16T12:05:46.283] [INFO] PROD - Server connected to DB mongodb://127.0.0.1/travels-data
+[2019-05-16T12:05:48.519] [INFO] PROD - 127.0.0.1 - - "GET / HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.157 Safari/537.36"
+[2019-05-16T12:05:49.031] [INFO] PROD - 127.0.0.1 - - "GET / HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.157 Safari/537.36"
+[2019-05-16T12:05:49.341] [INFO] PROD - 127.0.0.1 - - "GET / HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.157 Safari/537.36"
+[2019-05-16T12:05:49.524] [INFO] PROD - 127.0.0.1 - - "GET / HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.157 Safari/537.36"
+[2019-05-16T12:06:30.372] [INFO] PROD - 127.0.0.1 - - "GET /api/v1/get HTTP/1.1" 200 9 "" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.157 Safari/537.36"
