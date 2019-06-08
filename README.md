@@ -8,8 +8,8 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 Clone this repo, then run following commands:
 
-# 1. `npm i`
-# 2. Activate mongod server locally
+### 1. `npm i`
+### 2. Activate mongod server locally
 (If you don't have mongoDB installed, go through here [MongoDB Installation](https://docs.mongodb.com/manual/installation/) and download community version according to your OS.)
-# 3. run `nodemon` or `node app.js`.
+### 3. run `nodemon` or `node app.js`.
 (If you don't have nodemon installed, you can do it by running `npm i -g nodemon`.)
